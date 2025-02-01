@@ -1,0 +1,53 @@
+.some-text {
+    font-family: "Open Sans";
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+
+}
+
+.lorem-text {
+    text-decoration: line-through;
+}
+
+.lorem-clean {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.micro-text {
+    text-decoration: wavy;
+    text-decoration-color: #590b7e;
+    text-decoration-line: overline;
+    word-spacing: 30px;
+    color: #590b7e;
+}
+
+.text-black {
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
+
+.text-test {
+    font-family: "Triodion", serif;
+    font-size: 20px;
+    color: #0cf186;
+}
+
+.text-test1 {
+    font-family: "Triodion", serif;
+    color: #09ecb4;
+    font-size: 10px;
+    text-decoration: solid;
+    text-decoration-color: rgb(226, 150, 9);
+    text-decoration-line: line-through;
+}
+
+.text-test2 {
+    font-family: "Teko", serif;
+    color: #089ee4;
+    font-size: 18px;
+    text-decoration: dotted;
+    text-decoration-color: rgb(236, 97, 5);
+    text-decoration-line: underline
+}
