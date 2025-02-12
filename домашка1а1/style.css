@@ -1,0 +1,51 @@
+.body {
+}
+
+
+
+.block,
+.inline {}
+
+
+
+.block {
+    display: inline-block;
+    max-width: 350px;
+    height: 300px;
+    border-radius: 30px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 80px;
+    background: #eed5b5;
+    box-sizing: border-box;
+    box-shadow: 0px 5px 30px 2px #573a14 inset;
+    font-size: 20px;
+    margin: 0px 15px 15px 0px;
+    outline: 1px groove #140909;
+
+}
+
+.block1 {
+    display: inline-block;
+    border-radius: 30px 0px 0px 30px;
+    overflow: auto;
+    height: 500px;
+    margin: 50px;
+    background: #bccfe7;
+    margin: 0 0 30px 0;
+    padding: 10px 300px 10px 10px;
+    border-width: thick;
+    border: 10px #140909;
+    outline: 1px groove #140909;
+}
+
+.inline {
+    display: block;
+
+}
+
+
+p {
+    font-size: 20px;
+
+}
