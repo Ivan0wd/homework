@@ -1,0 +1,40 @@
+body {
+    font-size: 64px;
+    background-color: rgba(15, 15, 15, 0.774);
+    color: #ffffff;
+    padding-top: 50px;
+}
+
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+}
+
+.title::before,
+.title::after {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid #ffffff;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-460%);
+
+}
+
+.title::before {
+    left: 650px;
+    background: #b81414;
+}
+
+.title::after {
+    right: 650px;
+    background: rgb(145, 145, 235);
+}
