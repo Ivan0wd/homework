@@ -1,0 +1,30 @@
+.header {
+} 
+.main {
+}
+.content {
+}
+.container {
+}
+.content__title {
+}
+.content__text {
+}
+.content__img {
+}
+.main__middle {
+}
+.main__materual {
+}
+.lessons__list {
+}
+.lessons__list-item {
+}
+.main__bottom {
+}
+.main__review {
+}
+.review__video {
+}
+.footer {
+}
