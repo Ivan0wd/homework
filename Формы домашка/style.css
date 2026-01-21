@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+    font-size: 13px;
+
+
+}
+
+
+
+.fieldset {
+    display: block;
+    border-radius: 10px;
+    max-width: 350px;
+    background-color: rgb(98, 98, 163);
+
+}
+
+.heading {
+    font-size: 24px;
+
+}
+
+.name {
+    display: block;
+    margin-bottom: 15px;
+
+}
+
+.age {
+    display: block;
+    margin-bottom: 10px;
+
+
+}
+
+.tel {
+    display: block;
+    margin-bottom: 10px;
+
+
+}
+
+.mail {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.message {
+    display: block;
+    margin-bottom: 10px;
+    resize: vertical;
+    
+
+}
+
+
+
+
+.checkbox {
+    display: block;
+    cursor: pointer;
+    
+
+}
+
+.button {
+    display: block;
+    cursor: pointer;
+    color: aqua;
+    background: #000;
+    border-radius: 10px;
+    border-color: blue;
+}
+
+.window {
+    border-radius: 6px;
+    padding-left: 3%;
+}
+
+.textarea {
+    border-radius: 6px;
+    resize: vertical;
+    display: block;
+    padding-left: 3%;
+    max-height: 200px;
+}
+
+
+
